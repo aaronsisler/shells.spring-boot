@@ -7,7 +7,7 @@
 3. Remove what you don't need
 4. Add the AWS secrets in GHA if needed
 5. Add the Sonar project to their UI if needed
-6. Uncomment the Sonar stage in GHA for PR and Main files
+6. Uncomment the stages in GHA for PR and Main files as needed
 7. Look for this `changeme` with a global find
 8. Change it to what it should be
 9. Look for `shells.springboot` with a global find
