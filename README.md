@@ -19,4 +19,4 @@
 15. Run `mvnci` from terminal and make sure it passes
 16. Open in IntelliJ
 17. Turn on Save Actions
-18. Check application starts with `--Dspring.profiles.active=local`
+18. Check application starts with `-Dspring.profiles.active=local`
